@@ -1,6 +1,10 @@
 # PlugExample
 
-**TODO: Add description**
+## run tests
+`mix test tests/plug_example_test.ex`
+
+## run application
+`mix run --no-halt`
 
 ## Installation
 
@@ -18,4 +22,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/plug_example](https://hexdocs.pm/plug_example).
-
