@@ -16,6 +16,7 @@ defmodule PlugExample.Mixfile do
     [
       extra_applications: [:logger],
       mod: {PlugExample, []},
+      env: [cowboy_port: 8080],
     ]
   end
 
